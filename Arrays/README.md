@@ -6,3 +6,4 @@
 4. Kadanes Algorithm: https://leetcode.com/problems/maximum-subarray/
 5. Merge Intervals: https://leetcode.com/problems/merge-intervals/
 6. Set Matrix 0: https://leetcode.com/problems/set-matrix-zeroes/
+7. Pascal Triangle: https://leetcode.com/problems/pascals-triangle/
