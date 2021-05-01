@@ -7,3 +7,7 @@
 5. Merge Intervals: https://leetcode.com/problems/merge-intervals/
 6. Set Matrix 0: https://leetcode.com/problems/set-matrix-zeroes/
 7. Pascal Triangle: https://leetcode.com/problems/pascals-triangle/
+8. Next Permutation: https://leetcode.com/problems/next-permutation/
+9. Rotate a matrix 90 degrees: https://leetcode.com/problems/rotate-image/
+10. Search Efficiently in 2D: https://leetcode.com/problems/search-a-2d-matrix/
+11. Sell and buy stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
