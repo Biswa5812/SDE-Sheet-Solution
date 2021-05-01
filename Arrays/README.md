@@ -11,3 +11,4 @@
 9. Rotate a matrix 90 degrees: https://leetcode.com/problems/rotate-image/
 10. Search Efficiently in 2D: https://leetcode.com/problems/search-a-2d-matrix/
 11. Sell and buy stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+12. Pow(X,n): https://leetcode.com/problems/powx-n/
