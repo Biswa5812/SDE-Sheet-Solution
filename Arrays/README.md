@@ -12,3 +12,4 @@
 10. Search Efficiently in 2D: https://leetcode.com/problems/search-a-2d-matrix/
 11. Sell and buy stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 12. Pow(X,n): https://leetcode.com/problems/powx-n/
+13. Majority(>N/2 times): https://leetcode.com/problems/majority-element/
