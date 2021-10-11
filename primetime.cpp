@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int check_prime(int x);
+int check_prime(int y);
 int main()
 {
 	int h,p,answer=0;
